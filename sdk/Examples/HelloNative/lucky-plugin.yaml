@@ -1,0 +1,12 @@
+schema: 1
+api: 1
+id: example.hello
+name: Hello Native
+version: 0.1.0
+publisher: Example
+entrypoints:
+  windows-x64: HelloNative.exe
+  linux-x64: HelloNative
+panels:
+  - id: example.hello.panel
+    title: Plugin:Hello

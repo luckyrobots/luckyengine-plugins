@@ -1,0 +1,5 @@
+schema: 1
+plugins:
+  - id: luckyrobots.pipers
+    repository: https://github.com/luckyrobots/piper-direct-c
+    manifest: lucky-plugin.yaml
